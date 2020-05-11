@@ -48,9 +48,7 @@
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Serial - ASCII Characters.ctl" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2019/examples/Instrument IO/Serial/support/Serial - ASCII Characters.ctl"/>
 			<Item Name="Serial - Settings.ctl" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2019/examples/Instrument IO/Serial/support/Serial - Settings.ctl"/>
-			<Item Name="Serial - XON-XOFF Characters.ctl" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2019/examples/Instrument IO/Serial/support/Serial - XON-XOFF Characters.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
