@@ -16,7 +16,6 @@
 		<Item Name="Type Definitions" Type="Folder" URL="../Type Definitions">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="DB Read Modified.vi" Type="VI" URL="../../../../Downloads/DB Read Modified.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -118,6 +117,8 @@
 				<Item Name="WDT Number of Waveform Samples SGL.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Number of Waveform Samples SGL.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Load_from_DB_subVin.vi" Type="VI" URL="../Nowe/Load_from_DB_subVin.vi"/>
+			<Item Name="PMS7003_init_subVin.vi" Type="VI" URL="../Nowe/PMS7003_init_subVin.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
